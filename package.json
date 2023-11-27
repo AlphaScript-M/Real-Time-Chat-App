@@ -1,0 +1,11 @@
+{
+  "name": "rta",
+  "version": "20.10.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.14.2"
+  }
+}
